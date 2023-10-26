@@ -1,1 +1,20 @@
-# TP1_RMI
+![ModifMachine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/1533cca6-0609-455d-8f9f-dd71a6f54086)# TP1_RMI![ModifMachine_3](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/b7c0e350-fadd-4f8a-a17a-731ac64a1f07)
+![ModifMachine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/326385bc-ab6a-4881-9dd7-7b01fc232f46)
+![ModifMachine_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/c4bb9e6e-6064-41cc-86c6-6ab3261ecf4e)
+![ModifMachine_3](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/982adbd4-c95d-48d6-b212-5f0ed98651a2)
+![AjoutMachine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/0e6492e5-b3cd-49fd-b55e-687d8baed9af)
+![ModifMacgine_3](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/3c3430e0-5453-48a4-9980-69a87db8eaa0)
+![AjoutMachine_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/ee9a487f-af36-4ad3-b6a4-c4eaa8c557bb)
+![AjoutMachine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/2a85f194-ce35-4b14-8556-959ebecf42d0)
+![supMchine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/7595d331-5103-42ce-b1db-f59d1b86e8cd)
+![AjoutMachine_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/d8db704f-e749-41a8-bb8c-68dd495fa832)![SallePaMachine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/6ea4960b-ce42-48a6-8b76-85a6212125ee)
+![ModifSalle_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/b64529b1-a658-4c0f-badd-b6edb0f9eaf0)
+![ModifSalle_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/4d008b9c-c950-4282-a951-d6a75a422222)
+![AjoutSalle_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/12c26000-bb35-4b13-aeb1-51c07ab09ccf)
+![AjoutSalle_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/9507bf55-86a1-4580-a3ac-a058eeb220bc)
+![supSalle_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/83b68def-1a23-49ea-94b9-252b28512f9a)
+![supSalle_](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/d840a1c4-042a-462f-918b-af2c6d09f4c1)
+
+![SalleParMachine_2](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/7115a469-1673-4d78-b652-e5b0ae4c7036)
+
+![supMachine_1](https://github.com/DeathsScyth/TP1_RMI/assets/91764377/420a0afe-8140-450a-8f38-80d818467c99)
